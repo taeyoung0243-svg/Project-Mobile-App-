@@ -1,5 +1,3 @@
-<img width="70" height="100" alt="Screenshot_20251202_084427" src="https://github.com/user-attachments/assets/006b0c55-ec84-4b08-9200-e40419950fe2" />
-
 🎯 소개
 Soccer Store는 축구 용품을 쉽고 빠르게 구매할 수 있는 Android 모바일 쇼핑 애플리케이션입니다.
 💡 개발 동기
@@ -32,6 +30,10 @@ Soccer Store는 축구 용품을 쉽고 빠르게 구매할 수 있는 Android �
 원클릭 상품 추가
 실시간 수량 조절
 자동 총액 계산
+
+
+
+<img width="70" height="100" alt="Screenshot_20251202_084427" src="https://github.com/user-attachments/assets/006b0c55-ec84-4b08-9200-e40419950fe2" />
 
 4️⃣ 주문 시스템 💰
 
