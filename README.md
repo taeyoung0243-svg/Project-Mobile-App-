@@ -71,7 +71,7 @@ LiveData: 생명주기 인식 데이터 관찰
 
 실행화면
 
-<img width="1080" height="2400" alt="Screenshot_20251217_212151" src="https://github.com/user-attachments/assets/8d020b99-4117-48e3-9784-c4f9a5cf57d8" /><img width="1080" height="2400" alt="Screenshot_20251217_212205" src="https://github.com/user-attachments/assets/11a1c548-a8a6-4bc9-af52-c59eb96273e8" />
+<img width="300" height="500" alt="Screenshot_20251217_212151" src="https://github.com/user-attachments/assets/8d020b99-4117-48e3-9784-c4f9a5cf57d8" /><img width="300" height="500" alt="Screenshot_20251217_212205" src="https://github.com/user-attachments/assets/11a1c548-a8a6-4bc9-af52-c59eb96273e8" />
 
 
 
