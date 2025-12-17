@@ -46,63 +46,6 @@ FootballApp은 축구 팬들을 위한 Android 애플리케이션으로, 프리�
 프리미어리그, 라리가, 분데스리가, 세리에 A, 리그 1, 챔피언스리그 등 6개 주요 리그의 경기 정보를 실시간으로 제공합니다.
 2️⃣ 스마트 필터링
 상단의 리그 버튼을 통해 원하는 리그만 선택하여 볼 수 있습니다. "전체" 버튼으로 모든 리그를 한 번에 확인할 수도 있습니다.
-3️⃣ 직관적인 경기 정보
-
-팀 로고와 이름
-실시간 스코어
-경기 상태 (예정/진행중/종료)
-경기 날짜 및 시간
-
-4️⃣ 최신순 정렬
-가장 최근 경기가 상단에 표시되어 현재 진행 중인 경기를 빠르게 확인할 수 있습니다.
-
-🏗️ 기술 스택 & 아키텍처
-개발 환경
-
-언어: Kotlin
-최소 SDK: API 24 (Android 7.0)
-IDE: Android Studio
-
-아키텍처 패턴
-
-MVVM (Model-View-ViewModel): 비즈니스 로직과 UI 분리
-Repository Pattern: 데이터 소스 추상화로 유지보수성 향상
-LiveData: 생명주기 인식 데이터 관찰 
-
-실행화면
-
-<img width="300" height="500" alt="Screenshot_20251217_212151" src="https://github.com/user-attachments/assets/8d020b99-4117-48e3-9784-c4f9a5cf57d8" /><img width="300" height="500" alt="Screenshot_20251217_212205" src="https://github.com/user-attachments/assets/11a1c548-a8a6-4bc9-af52-c59eb96273e8" />
-
-
-
-📊 개발 성과
-✅ REST API 통신 - Retrofit을 활용한 안정적인 데이터 통신 구현
-✅ 비동기 처리 - Coroutines를 활용한 효율적인 네트워크 요청
-✅ 반응형 UI - LiveData로 데이터 변화에 따른 자동 UI 업데이트
-✅ 이미지 캐싱 - Glide를 활용한 팀 로고 효율적 로딩
-✅ 날짜 필터링 - 7일 전후 경기만 표시하여 관련성 높은 정보 제공
-
-🔮 향후 개선 방향
-
- 즐겨찾기 팀 설정 기능
- 경기 알림 (푸시 알림)
- 다크 모드 지원
- 경기 상세 정보 (선수 라인업, 통계)
- 오프라인 모드 (Room DB 연동)
- 다국어 지원
-
-
-⚠️ 알려진 이슈
-
-API 무료 플랜 제한 (10 requests/day)
-챔피언스리그 데이터 로딩 시 가끔 429 에러 발생
-
-
-📜 라이선스
-MIT License - 자유롭게 사용 및 수정 가능합니다.
-
-🙌 크레딧
-API 제공: Football-Data.org
-개발자: Your Name
+3️⃣ 직관적인 영
 개발 기간: 2025.12
 
